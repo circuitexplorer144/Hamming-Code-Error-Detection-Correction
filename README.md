@@ -46,9 +46,9 @@ The simulation was used to verify the logic of the Hamming Code circuit and obse
 
 ## Project Demonstration
 
-The hardware demonstration video is included in this repository.
+The hardware implementation and working of the Hamming Code Error Detection and Correction project are demonstrated in the video below.
 
-[🎥 Watch Hamming Code Hardware Demonstration](Demo%20Hamming-Code-Hardware-Demonstration.mp4)
+🎥 [Watch Hamming Code Hardware Demonstration](https://youtube.com/shorts/Mx3zW7OXRyI?feature=share)
 
 ## Circuit Diagram
 ![Hamming Code Circuit Diagram](ImagesHamming-Code-Circuit.png)
