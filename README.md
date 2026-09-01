@@ -43,13 +43,12 @@ The simulation was used to verify the logic of the Hamming Code circuit and obse
 ## Software Used
 
 * Proteus Design Suite
-## Project Demonstration
 
-The project was tested using both hardware implementation and Proteus simulation. The working of Hamming Code error detection and correction was verified successfully.
+## Project Demonstration
+The project demonstration video is included in this repository as **Hamming Code Video Demonstration**.
 
 ## Circuit Diagram
-
-The circuit diagram of the Hamming Code Error Detection and Correction project is included in this repository.
+![Hamming Code Circuit Diagram](Hamming%20Code.png)
 
 ## Results
 
